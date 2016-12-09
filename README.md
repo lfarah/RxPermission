@@ -1,4 +1,10 @@
 # RxPermission
+
+[![CocoaPods](https://img.shields.io/cocoapods/v/RxSwift-Permission.svg)](https://github.com/sunshinejr/RxPermission)
+![Swift 3](https://img.shields.io/badge/Swift-3.0.x-orange.svg)
+[![License](https://img.shields.io/cocoapods/l/RxSwift-Permission.svg?style=flat)](http://cocoapods.org/pods/RxSwift-Permission)
+[![Platform](https://img.shields.io/cocoapods/p/RxSwift-Permission.svg?style=flat)](http://cocoapods.org/pods/RxSwift-Permission)
+
 ReactiveX way to request permissions on iOS
 
 
@@ -8,7 +14,7 @@ RxPermission is available through [CocoaPods](http://cocoapods.org).
 
 
 ```ruby
-pod 'RxPermission', '1.0.0'
+pod 'RxSwift-Permission'
 ```
 
 ### Sample code
