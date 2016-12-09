@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name             = "RxPermission"
+  s.name             = "RxSwift-Permission"
   s.version          = "1.0.0"
   s.summary          = "ReactiveX way to request permissions on iOS."
   s.description      = <<-EOS
