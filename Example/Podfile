@@ -1,5 +1,5 @@
 use_frameworks!
 
 target 'Example' do
-  pod 'RxPermission', :path => '../'
+  pod 'RxSwift-Permission', :path => '../'
 end
