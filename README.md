@@ -20,6 +20,7 @@ Permission.contacts.rx
     }
     .addDisposableTo(disposeBag)
 ```
+Remeber add [NSContactsUsageDescription](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html#//apple_ref/doc/uid/TP40009251-SW24) to your Info.plist.
 
 ### Available permissions:
 See [PermissionType.swift](https://github.com/delba/Permission/blob/master/Source/PermissionType.swift)
