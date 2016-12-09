@@ -16,6 +16,8 @@ RxPermission is available through [CocoaPods](http://cocoapods.org).
 ```ruby
 pod 'RxSwift-Permission'
 ```
+## Notice
+**:warning: You must read [this](https://github.com/delba/Permission#configuration) before use.**
 
 ### Sample code
 ```swift
